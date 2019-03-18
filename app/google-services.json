@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "652848834094",
+    "firebase_url": "https://dhvani-8cad1.firebaseio.com",
+    "project_id": "dhvani-8cad1",
+    "storage_bucket": "dhvani-8cad1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652848834094:android:e904b19b1d35ca85",
+        "android_client_info": {
+          "package_name": "com.example.dhvani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652848834094-gsdtdfs94e34uoof0roud01oucffv5lm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dhvani",
+            "certificate_hash": "8f97957055e59e924a3de902891c1406fe754e8f"
+          }
+        },
+        {
+          "client_id": "652848834094-l2ch3v80mbbqaa3f29op6i0ef2hikrt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-IbzUHf-4STyE7-oIgWgXMOCVbyTJBJY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652848834094-l2ch3v80mbbqaa3f29op6i0ef2hikrt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
